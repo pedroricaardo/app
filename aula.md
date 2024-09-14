@@ -12,3 +12,7 @@ Biblioteca 'inquirer' para criar prompts interativos
 ## Programação assíncrona e Promises:
 
 Uso de funções assíncronas (async/await)
+
+# Operadores
+
+Spread operator: ...
