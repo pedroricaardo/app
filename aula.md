@@ -8,6 +8,13 @@ Apresentar os dados
 
 Importação de módulos (require, ComonJS)
 Biblioteca 'inquirer' para criar prompts interativos
+FS (file system)
+
+## JSON
+
+Javascript Object Notation
+JSON.parse() - transforma de JSON para JS
+JSON.stringfy() - transforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 
